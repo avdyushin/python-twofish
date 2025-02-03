@@ -15,7 +15,7 @@ twofish_module = Extension('_twofish',
                           include_dirs=['twofish-0.3'])
 
 setup(name='twofish',
-      version='0.3.0',
+      version='0.3.1',
       description='Bindings for the Twofish implementation by Niels Ferguson',
       author='Filippo Valsorda',
       author_email='filippo.valsorda@gmail.com',
